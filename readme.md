@@ -11,7 +11,6 @@
 | Loss analysis of the ProcrastinatePRO+ application     | Расчёти и анализ метрик когортного анализа: LTV, CAC, Retention rate, DAU, WAU, MAU |     pandas, matplotlib, seaborn, когортный анализ, юнит-экономика,продуктовые метрики  |
 | Testing hypotheses to increase revenue in an online store      | Цели проекта: 1. Приоретизация гипотез. 2. Оценка результатов А/В тестирования различными методами       |         pandas, matplotlib, scipy, A/B-тестирование, проверка статистических гипотез   |
 | Research of the public catering market in Moscow to make a decision to open a new establishment | Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов        |        pandas, matplotlib, seaborn, plotly, визуализация данных |
-| Creating a custom event dashboard for an aggregator
-news     | Используя данные Яндекс.Дзена создан дашборд с метриками взаимодействия пользователей с карточками статей |     SQLAlchemy, PostgreSQL, dash, Tableau, продуктовые метрики, построение дашбордов   |
+| Creating a custom event dashboard for an aggregator news     | Используя данные Яндекс.Дзена создан дашборд с метриками взаимодействия пользователей с карточками статей |     SQLAlchemy, PostgreSQL, dash, Tableau, продуктовые метрики, построение дашбордов   |
 | Churn forecast for fitness centers      | Проект посвещён основам машинного обучения: на основе данных о посетителях сети фитнес-центров спрогнозировать вероятность оттока для каждого клиента в следующем месяце, сформировать с помощью кластеризации портреты пользователей       |         pandas, scikin-learn, matplotlib, seaborn, машинное обучение, классификация, кластеризация   |
 | Gamedev | Буткемп проект        |        SQL, A/B-testing, когортный анализ |
